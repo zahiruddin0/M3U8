@@ -20,9 +20,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="SIARAN_MALAYSIA",Berita RTM (server 2)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
+#EXTINF:-1 group-title="SIARAN_MALAYSIA"  tvg-logo="https://i.postimg.cc/jSr9tL7t/20230829-014558.png",Berita RTM (server 3)
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=6
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 
-#EXTINF:-1 tvg-id="BERITARTM" group-title="SIARAN_MALAYSIA" tvg-logo="https://i.postimg.cc/rwvc8JYr/800px-Berita-RTM-v2.png",Berita RTM (server 3)
-
+#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-group="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",Berita RTM (server 3)
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="SIARAN_MALAYSIA",Astro Awani (server 1)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -390,11 +394,6 @@ https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="SIARAN_MALAYSIA"  tvg-logo="https://i.postimg.cc/fLX8nyFd/20230828-234458.png",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net:443/smil:sukan/manifest.mpd?id=6
-
-#EXTINF:-1 group-title="SIARAN_MALAYSIA"  tvg-logo="https://i.postimg.cc/jSr9tL7t/20230829-014558.png",BERITA RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=6
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
 
 #EXTINF:-1 group-title="SIARAN_MALAYSIA"  tvg-logo="https://i.postimg.cc/sgF9zTVB/20230829-003006.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
@@ -800,8 +799,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="502.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA",Bernama
+#EXTINF:-1 tvg-id="502.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA",Bernamac(server 1)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-group="siaranMy" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", Bernama (server 2)
+https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="TIVIME YOUTUBE", Bernama (server 3)
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eaBEsw1k9cN+bUXVA8uygA", "kid":"2xNDVFriXd7PjfpEIvNUEA" } ], "type":"temporary" }
@@ -951,14 +956,8 @@ https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 #EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-group="siaranMy" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
-#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-group="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-
 #EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-group="siaranMy" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-
-#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-group="siaranMy" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
-https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 #EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-group="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
@@ -1316,8 +1315,6 @@ http://iptvtree.net:8080/hotbot336/a47c51f37d50/157491
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="TIVIME YOUTUBE", Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="TIVIME YOUTUBE", BERNAMA TV
-https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
 
 
 
