@@ -71,7 +71,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste 
+#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste (server 2)
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -162,12 +162,11 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="393.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA",One (server 3) 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SOOKA_ZAHIRUDDIN" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE",One (server 4)
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE",One (server 4)
 https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -449,7 +448,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SOOKA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/5d45ee71e76d1e0d19199.png" tvg-id="OKEY",OKEY (server 5)
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA" tvg-logo="https://telegra.ph/file/5d45ee71e76d1e0d19199.png" tvg-id="OKEY",OKEY (server 5)
 https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="SIARAN_MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY (server 6)
@@ -953,7 +952,7 @@ https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-id="134.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral
 https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="135.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
+#EXTINF:-1 tvg-id="135.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste (server 1)
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #EXTINF:-1 tvg-id="12.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
