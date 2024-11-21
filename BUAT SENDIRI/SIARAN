@@ -71,7 +71,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
 https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste (server 2)
+#EXTINF:-1 group-title="SIARAN_MALAYSIA" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste
 https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -952,7 +952,7 @@ https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 tvg-id="134.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral
 https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="135.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste (server 1)
+#EXTINF:-1 tvg-id="135.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #EXTINF:-1 tvg-id="12.astro" group-title="SIARAN_MALAYSIA" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
