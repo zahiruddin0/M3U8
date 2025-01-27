@@ -1,17 +1,7 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 ====================================================== WWE =================================================================
+#EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/zahiruddin0/M3U8/refs/heads/main/MESEJ/ZAHIRUDDIN.jpg"
+
 
 #EXTINF:-1 group-title="WWE" tvg-id="" tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png",WWE CHANNEL
 http://Supersonictv.live:8080/live/006779/439866/22185.ts
@@ -36,6 +26,8 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 
 
 ====================================================== SPORT =================================================================
+#EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/zahiruddin0/M3U8/refs/heads/main/MESEJ/ZAHIRUDDIN.jpg"
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/massxi2j5fj1qo8/unifi.png" group-title="SPORT",UNIFI SPORTS (server 1)
@@ -128,6 +120,8 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 
 
 ====================================================== BONUS_SPORT =================================================================
+#EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/zahiruddin0/M3U8/refs/heads/main/MESEJ/ZAHIRUDDIN.jpg"
 
 
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="BONUS_SPORT",Red Bull TV
