@@ -1,12 +1,8 @@
+====================================================== SIARAN_MALAYSIA_ZAHIRUDDIN =================================================================
+
 #EXTM3U
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/zahiruddin0/M3U8/refs/heads/main/MESEJ/ZAHIRUDDIN.jpg"
 
-
-
-
-
-
-====================================================== SIARAN_MALAYSIA_ZAHIRUDDIN =================================================================
 
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV 1 (server 1)
@@ -1104,6 +1100,10 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 ====================================================== RADIO_MALAYSIA_ZAHIRUDDIN =================================================================
 
+#EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/zahiruddin0/M3U8/refs/heads/main/MESEJ/ZAHIRUDDIN.jpg"
+
+
 #EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
 https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
 
@@ -1283,48 +1283,3 @@ https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0gEeMrUkoC5Dl44aBmOUvQ", "kid":"SiQocCxmIgzhBdXLogM0EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-====================================================== ZAHIRUDDIN_UNIFI =================================================================
-
-#EXTINF:-1 tvg-id="141" ch-number="141" tvg-name="Pesona HD" tvg-logo="https://playtv.ZAHIRUDDIN_UNIFI.com.my:7047/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="ZAHIRUDDIN_UNIFI",141 ZAHIRUDDIN_UNIFI Pesona
-https://t.ly/HpvGO
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 group-title="ZAHIRUDDIN_UNIFI" tvg-id="555" ch-number="555" tvg-name="Boomerang HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Boomerang.png",555 ZAHIRUDDIN_UNIFI Boomerang HD
-http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/2944
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 group-title="ZAHIRUDDIN_UNIFI" tvg-id="555" ch-number="555" tvg-name="Boomerang HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Boomerang.png",555 ZAHIRUDDIN_UNIFI Boomerang HD
-http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/2944
