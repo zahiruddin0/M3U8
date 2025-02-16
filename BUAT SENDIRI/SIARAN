@@ -780,7 +780,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #EXTINF:-1 tvg-id="103.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV3 (server 1)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/tv3.png",TV3 (server 2)
+#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://perfecttv.net/logo/tv3.png",TV3 (server 2)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
