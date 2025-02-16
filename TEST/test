@@ -1,5 +1,1392 @@
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5wZNFUJAwyX6RCxdqrLO9lLWJ20.jpg",Piglet (2025)
-https://stream.hownetwork.xyz/xxx/piglet-2025-webdl_X_b4eb7a41/29/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Piglet.2025.mp4/tracks-v1a1/mono.m3u8
-https://cdn.turboviplay.cc/data1/67a91c56c5f80/67a91c56c5f80720.m3u8
+#EXTM3U billed-msg="SIARAN BY ZAHIRUDDIN"
+
+====================================================== SIARAN_MALAYSIA_ZAHIRUDDIN =================================================================
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/zahiruddin0/M3U8/refs/heads/main/MESEJ/ZAHIRUDDIN.jpg"
+
+
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV 1 (server 1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/6QcPbykp/20230828-234735.png",TV 1 (server 2)
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv1/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV 1 (server 3)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F/ut5qlPUnGmp8VjdL9tjg", "kid":"UmLL6+rWT0KqgxfjyxMQbA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/670a6c2c2f87754f6c8ec.png" tvg-id="TV1",TV 1 (server 4)
+https://linear08-playback.sooka.my/CH3/masterCH3.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="TV1" tvg-chno="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV 1 (server 5)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" } 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV2 (server 1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV2 (server 2)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/7YXmypBK/20230828-234404.png",TV2 (server 3)
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+
+#EXTINF:-1 tvg-id="TV2" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2 (server 4)
+#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2 (server 5)
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/a449990e1f2d0a6ac8ec6.png" tvg-id="TV2",TV2 (server 6)
+https://linear08-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Berita RTM (server 1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Berita RTM (server 2)
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/jSr9tL7t/20230829-014558.png",Berita RTM (server 3)
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=6
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",Berita RTM (server 4)
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Berita RTM (server 5) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Awani (server 1)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="AstroAwani" tvg-number="501" tvg-name="AstroAwani" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani (server 2)
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="501.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SIARAN_MALAYSIA_ZAHIRUDDIN_Awani_v1.png" group-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Awani (server 3) 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_primary.mpd
+
+#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",Astro Awani (server 4)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GZBKr+idRaQB1cqtnYQadw", "kid":"T8ES+SqfTrmJob14DT495g" } ], "type":"temporary" }
+https://linear03-playback.sooka.my/CH5/masterCH5.mpd
+
+#EXTINF:-1 tvg-logo="http://example.com/logo1.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN", Astro Awani (server 5)
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste
+https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/071ec21b298280a2e418c.png" tvg-id="xxx",TRAVEL & TASTE
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="Drama Hotpot.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot (server 1)
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+
+#EXTINF:-1 tvg-id="133.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="133" tvg-logo="https://aqfadtv.xyz/logos/DramaHotpot.png",Drama Hotpot (server 2)
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="133.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/d58fe99a006c3ad4b9e24.png" tvg-id="Drama Hotspot",Drama Hotpot (server 3)
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="Lawak Sentral.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="Drama Hebat.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat (server 1)
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+#EXTINF:-1 tvg-id="132.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/0c4afb9624d691ef282a4.png" tvg-name="Drama Hebat",Drama Hebat (server 2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#EXTINF:-1 tvg-id="132.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="132" tvg-logo="https://aqfadtv.xyz/logos/DramaHebat.png",Drama Hebat (server 3)
+https://linearfast01.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://i.postimg.cc/0Q3LSCgx/parlemendewannegara.png",Parlemen Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://i.postimg.cc/BbKRB1sF/parlemendewanrakyat.png",Parlemen Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/aec/
+#EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",Astro AEC
+https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="702.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
+https://linear05-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ONE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",One (server 1)
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://iili.io/1NC5v9.png" channel-id="ONE" tvg-id="ONE" tvg-name="ONE HD",One (server 2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct","k":"bhcdw24jVsJOTlmxm8mPxQ","kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bhcdw24jVsJOTlmxm8mPxQ", "kid":"aXljcdxORX2Y+isCXqv8lA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://iili.io/1NC5v9.png" tvg-id="ONE",One (server 3)
+https://linear05-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kDHO+thTx4plwgIIIVMvPQ", "kid":"5VhM/9YVSROXuM3tXmecGQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png"" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",KBS World
+https://linear03-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+TZMA5oAfez1lcmKWMMjCQ", "kid":"fLhAK8wnRmOYFYmFcQMnNA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="K-Plus" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-logo="https://d1cpsf32ggxh4r.cloudfront.net/static/Afile/image/logo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",K-Plus
+https://linear08-playback.sooka.my/CH5/masterCH5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="201.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png" group-logo="https://ws.kapallayar.cc//image//Logo//INDIA//IND_VAANAVIL.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Vaanavil (server 1)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="AstroVaanavil" tvg-chno="AstroVaanavil" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",Astro Vaanavil (server 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="AstroVinmeenHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Vinmeen HD 
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_Iqiyi.png",300 IQIYI
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_CALESTIAL.png",309 CELESTIAL MOVIES
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroAura.my" ch-number="113" ch-number=" " tvg-name="ASTRO AURA HD" group-logo="https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/logo1/INDOLOGO.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN", Astro Aura  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#EXTINF:-1 tvg-id="136.astro" tvg-name="Oh My Ceria" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",OH MY CERIA (server 1)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="136.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e60810abe557482f98be7c853aeb490d/version/1" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",OH MY CERIA (server 2) 
+https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="134.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/1621221a6795938224b62.png" tvg-name="Lawak Sentral",LAWAK SENTRAL
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+#EXTINF:-1 tvg-id="131.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/6c1ea8ba4e4fd18681306.png" tvg-name="Filem Mantap",FILEM MANTAP
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HitsM.png",401 HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Oasis (server 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UGsB5FPcqbzg3Ag+0B/MQA", "kid":"8NnVKgwkRB2zzoLvypx4Pg" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="106.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Oasis (server 2)
+https://linear09-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
+#EXTINF:-1 ch-number="114" tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",114 TV Alhijrah (Server 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="114.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",114 TV Alhijrah (Server 2) 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", 114 TV Alhijrah (Server 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_CNTWK.png",615 CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//SIARAN_MALAYSIA_ZAHIRUDDIN//KD_DWRKS.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",612 DREAMWORKS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5095/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://ws.kapallayar.cc//image//Logo//SIARAN_MALAYSIA_ZAHIRUDDIN//KD_NICKZ.png?5423" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",616 NICKELEDEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nickelodeon Junior" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//SIARAN_MALAYSIA_ZAHIRUDDIN//KD_NICKJR.png",617 NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+#EXTINF:-1 tvg-id="148" ch-number="148" tvg-name="RTMBINGTANG" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/brtm2024.jpg",Bintang RTM 2024 (server 1)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="148" ch-number="148" tvg-name="RTMBINGTANG" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/brtm2024.jpg",Bintang RTM 2024 (server 2)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://ws.kapallayar.cc//image//Logo//LEARNING//LR_HGTV.png?5423" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",715 HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//LEARNING//LR_LIFETIME.png",703 LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="CHN" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" ch-number="100" tvg-logo="https://i.ibb.co/nzVBbtK/images.png", Astro Go (Live Ahad Sahaja)
+https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxY_PWEaYrFu5LfLjNI6AADufAIEOl-j6_kQsILxBH171YNzFgPshB7DmnnOKatO2HIW1_gSJ430fBzmyfxpM5m8A22HD3GX-PjrWTSQo5AXGxH2EQSqv0dHyIgnhXATVtSrmvVBGVZOpfQ8EjoDtrV0Fli0P0-Hj3WrqwjiQlsjvYLmxCPGkfKknK/s720/RTBGo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",RTB Go 1
+https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxY_PWEaYrFu5LfLjNI6AADufAIEOl-j6_kQsILxBH171YNzFgPshB7DmnnOKatO2HIW1_gSJ430fBzmyfxpM5m8A22HD3GX-PjrWTSQo5AXGxH2EQSqv0dHyIgnhXATVtSrmvVBGVZOpfQ8EjoDtrV0Fli0P0-Hj3WrqwjiQlsjvYLmxCPGkfKknK/s720/RTBGo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",RTB Go 2
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="111" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://i.postimg.cc/TwsKGmmN/800px-Sukan-RTM-1-April.png",SUKAN RTM (server 1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/fLX8nyFd/20230828-234458.png",SUKAN RTM (server 2)
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:sukan/manifest.mpd?id=6
+
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",SUKAN RTM (server 3)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM (server 4)
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://i.postimg.cc/TwsKGmmN/800px-Sukan-RTM-1-April.png",SUKAN RTM (server 5)
+#EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="Undefined",SUKAN RTM (server 6) [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/sgF9zTVB/20230829-003006.png",TV 6 (server 1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+
+#EXTINF:-1 tvg-id="106" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",TV 6 (server 2)
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+#EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://i.imgur.com/bK8UH9D.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV6 [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV 6 (server 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="" tvg-name="TV6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV 6 (server 4)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=5|Referer="https://rtm-player.glueapi.io/"
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/Bb7srmRt/20230829-002740.png",OKEY (server 1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=6
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4,
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/ZWTWoqiWiVgbvEaF2fug", "kid":"ngdsLhf9SLS+J83Aj+IYfw" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/5d45ee71e76d1e0d19199.png" tvg-id="OKEY",OKEY (server 2)
+https://linear08-playback.sooka.my/CH2/masterCH2.mpd
+
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY (server 3)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY (server 4)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="OKEY" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",OKEY (server 5)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default.mpd
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",OKEY (server 6) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/220px-Okey_RTM.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",OKEY (server 7)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist.m3u8?id=1|Referer="https://rtmklik.rtm.gov.my"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="149.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV9 (server 1) 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="109." tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV9 (server 2)
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/ncLrThzV/20230829-014302.png",DEWAN NEGARA
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/Xq4GnK49/20230829-014346.png3",DEWAN RAKYAT
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/tRYcDR29/20230829-002859.png",8TV (server 1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="148.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",8TV (server 2)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="108." tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",8TV (server 3)
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="118.unifi" ch-number="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Inspirasi (server 1)
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/Yqg1sjm9/pngwing-com-81.png",Inspirasi (server 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="118." ch-number="118" tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Inspirasi (server 3)
+https://unifi-live29.secureswiftcontent.com/UnifiHD/live29.mpd
+
+
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }  
+#EXTINF:-1 tvg-id="122.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TVS (server 1)
+https://linear10-playback.sooka.my/CH2/masterCH2.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="TVS" tvg-chno="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS (server 2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="113.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SIARAN_MALAYSIA_ZAHIRUDDINAura.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Aura 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="112.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Rania 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="335.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",CCTV4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="321.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",CCM
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="309.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Celestial Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="333.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Hua Hee Dai 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",iQIYI 
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_primary.mpd 
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="317.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TVB Entertainment 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="319.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TVB Xing He 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="222.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Colors Tamil 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="221.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Star Vijay
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="214.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Sun Adithya
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="215.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Sun News 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="211.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Sun TV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="203.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SIARAN_MALAYSIA_ZAHIRUDDIN_Vellithirai_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Vellithirai 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",KBS World 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",tvN Movies 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Boo   
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="412.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Cinemax  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Hbo  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Hbo Hits   
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="401.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HitsMoviesV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Hits Movies    
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="413.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Showcase Movies      
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="709.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Afn  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="708.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Food Network 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="715.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",HGTV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="702.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HITSNOW.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Hits Now
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="703.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Lifetime 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS4fiUEpxRfciEW6ruvsig", "kid":"9CkpLcdE8oQ1UwhWFXesEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="717.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Lifestyle 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="718.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",MTV Live 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="707.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TLC
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="712.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Warner TV     
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="615.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Cartoon Network     
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="611.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Ceria     
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="612.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Dreamworks      
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema (server 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN"  tvg-logo="https://i.postimg.cc/c1nXCdZH/20230829-014511.png",Dunia Sinema (server 2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="Dunia Sinema HD"  tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema (server 3)
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="128.unifi" ch-number="128" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Dunia Sinema (server 4)
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
+
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Dunia Sinema (1080p) (server 5)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="128." ch-number="128" tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Dunia Sinema (server 6)
+https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
+
+#EXTINF:-1 tvg-logo="http://example.com/logo1.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN", Dunia Sinema (server 6)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="616.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Nickelodeon  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="617.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Nickelodeon Junior 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="513.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Al Jazeera News
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="502.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Bernama (server 1)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="503.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",CGTN 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YCgnqHDUmGLRoj8pEpV7TA", "kid":"w6OPE0BTF1mhype8XYDIEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="516.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",CNBC 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="514.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Sky News
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="554.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",BBC Earth 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Discovery 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Discovery Aisa 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="555.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",History 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="550.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Love Nature 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="130.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/deced13e0faf45d78fb271171a439d40/version/1" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Jom Ngaji 
+https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-id="CartoonNetwork " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="103.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV3 (server 1)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://perfecttv.net/logo/tv3.png",103 TV3 HD (server 2)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ef878dbe08de56f7c95a877b884f70c:4e965306704af0ff926eed19f18c6c69
+##https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+#KODIPROP:inputstream.adaptive.stream_hdeaders=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#https://linearjitp.perfecttv.net/tv3.mpd
+http://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 tvg-id="RTBAneka.bn" tvg-logo="https://i.imgur.com/MY40GrC.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBGo.bn" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",RTB Go LIVE (server 1)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBGo.bn" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",RTB Go LIVE (720p) (server 2)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="131.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap
+https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="134.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="134" tvg-logo="https://aqfadtv.xyz/logos/LawakSentral.png",Lawak Sentral
+https://linearfast03.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="135.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="135" tvg-logo="https://aqfadtv.xyz/logos/Travel&Taste.png",Travel & Taste
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="12.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="9.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/GustoTV.png",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="8.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/InfamousTV.png",Infamous TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="11.astro" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" tvg-logo="https://aqfadtv.xyz/logos/YRFMusic.png",YRF Music
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="TVIKIM" tvg-number="117" tvg-name="Tv Ikim" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV IKIM (server 1)
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://i.postimg.cc/yNfq1HvD/tvikim.png",TV IKIM (server 2)
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVIKIM.my" tvg-logo="https://i.imgur.com/X6JKNEE.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",TV IKIM (server 3)
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://example.com/logo1.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN", TV IKIM (server 4)
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Rakyat
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-group="siaranMy" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
+https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
+#EXTINF:-1 tvg-id="502" ch-number="502" tvg-name="Love Nature HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",502 Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xN10vdm0ZXlLH7Eqq2WW+A", "kid":"rPtLDx9ZRr+nw/LnwtYNAA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/1ff29df0932fb7ad48ce3.png" tvg-id="XXXX",HITS HD
+https://linear05-playback.sooka.my/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qtosuCCLhbJxrcmyT4MSWg", "kid":"Wa0gWlhRQDmr6UD+G9K8lQ" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/94a14183b17e8749173fa.png" tvg-id="XXXX",HITS MOVIES HD
+https://linear05-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tPEppE661kuiVHX9L66wMg", "kid":"ziR/uJnPTyilAR4YBpyHcg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/01d964c23e6ac296490a4.png" tvg-id="tvN",tvN
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uOkanQqlnHxVmGwq5qtvZA", "kid":"SxonztiBTmWnYRg+1uT85g" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://telegra.ph/file/017abfae80104df23085c.png" tvg-id="tvNMovies",tvN Movies
+https://linear08-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Salam HD (server 1)
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="118." ch-number="118" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Salam HD (server 2)
+https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Siar 
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Arena
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Arena 2 (server 1)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Badminton
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5170/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Football
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Supersport Plus (server 1)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HO5FQCla5tbFGcUEGoDxwA", "kid":"jQKveknkSzGXZNgR0BjF6A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="0.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Supersport Plus (server 2)
+https://linear03-playback.sooka.my/CH3/masterCH3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MbNI0FlZPIH463qPX5madg", "kid":"/NsMITaNTGqo9MCOTNRCVg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Vasantham 
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/13229990/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="203.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Vellithirai 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="832.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Astro Cricket
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Boo  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+13rX2iP1n7CDHEZHH9FkA", "kid":"G47j2xfTRUeYOiw93D0o/A" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Channel 5 
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/10938150/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SFpVhZ/aBaHj6K4a5jkG6A", "kid":"pDFecmYCTfyd25Zncn2WNQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Channel 8
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/9826991/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YfC35TdoIU1NVpF/vPwnIw", "kid":"mB/aHUKqTYGzZ9hXlER+Kg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Channel U 
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Flik" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Flik.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Flik
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 tvg-id="7.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/FreeMovies.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Free Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="GALAXY" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Galaxy
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="GALAXYPremium" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Galaxy Premium
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="IMC" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",IMC
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+#EXTINF:-1 tvg-id="USBD300002TU" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Ion.png" group-logo="" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",ion
+https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
+
+#EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonMystery.png" group-logo="" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",ion Mystery
+https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
+
+#EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonPlus.png" group-logo="" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",ion Plus
+https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
+#####https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"daVFBmlUubf6+pbXKoROAA", "kid":"22RrN0K6QnGKKENqH0AaqA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Suria 
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/13230332/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Alwafa Tarim TV (Am Media)(INDONESIA)(720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
+http://cord-cutter.net:8080/live/95549031/69361122/11664.ts
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://example.com/logo1.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN", Stadium
+https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8?ap.debug=0&ap.pt=0&ap.sid=843be30a-24bb-42cd-a945-eeeaf324cfbd
+
+#EXTINF:-1 tvg-logo="http://example.com/logo1.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN", maah tv
+https://hls.maahtv.live/hls/stream.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SziYvIpv/Ytcs0p82QbcNQ", "kid":"n7/9H/ITQBaaWhFCvPTdrQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",beIN Sports
+https://dcqkiaqc3sngm.cloudfront.net/CH5/masterCH5.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HWm1ZamxpT0dRdE5tTmxaaTAwTXpGaExXSTBaak10TkRJMllUUXpZVEZtT0dVMCIsIndtb3BpZCI6MzIsImV4cCI6MTY5MzIyODkxNiwiaWF0IjoxNjkyNjI0OTE2fQ.IKG1JXGjCKdFjMO-KMWimiKgwkDJahxRMCPoOpBXdr4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Eurosport
+https://linear03-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="107." tvg-logo="http://playtv..com.my:7040/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",DidikTV (server 1)
+https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png"DidikTV (server 2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FyYINQnVcLXeRzCrnzOMww", "kid":"5QlzW1+JdQ1CrOJBDq1yEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml"
+
+
+
+#EXTINF: -1 tvg-id="ShopChannel.jp" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN", Shop Channel (JAPAN)
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Pluto TV 1 (MOVIES US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Pluto TV 2 (MOVIES US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/vsS3fLn/Pluto-TV-2020-logo.png" tvg-url="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Pluto TV 3 (MOVIES US)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tLYQsTm/20200225-091407.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Berita Satu (INDNESIA)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="335" tvg-name="CCTV4 HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png",335 CCTV4 (CHINESE)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+
+#EXTINF:-1 tvg-id="TransTV.id" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Trans_TV_2013.svg/revision/latest/scale-to-width-down/300?cb=20201220001110",Trans TV HD (INDONESIA)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Trans_7_2013.svg/revision/latest/scale-to-width-down/250?cb=20160314100735",Trans7 HD (INDONESIA)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="515" tvg-name="CNA HD" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",515 CNA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
+# https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids" tvg-name="MoonbugKids" tvg-logo="https://seeklogo.com/images/M/moonbug-kids-logo-D454044A25-seeklogo.com.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",MoonbugKids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",ZooMoo Kids 
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/db3J7xh/1-music-channel-logo-FB300-DCF9-A-seeklogo-com.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Music 1
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd-1/logo_20220801_201502_68.png"  group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",BollywooD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",BollywooD Classic 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#####EXTINF:-1 tvg-id=".astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/f5654e6c9ee5488c949135e749eaf9db/version/0" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",KCM
+#EXTINF:-1 tvg-id=".astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/KCM.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",KCM
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-logo="" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Max Stream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",MovieSphere By Lionsgate
+https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",MN+ 
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Movies Now
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#####EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",MN+  
+#####http://opplex.tv:8080//live/83212539/43153928/66244.m3u8
+
+#####EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",MNX
+#####http://opplex.tv:8080//live/83212539/43153928/66266.m3u8
+
+#####EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Movies Now
+#####http://opplex.tv:8080//live/83212539/43153928/66271.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",HerSphere by Lionsgate
+https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
+
+#EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",OuterSphere by Lionsgate
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"USSZbrz+4He0qs7DB/ONDw", "kid":"sRGeAbZ6GaPrN8QRQMP6EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="619.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png" group-logo="" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",Blippi & Friends   
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League (server 1)
+http://15.235.144.67:35461/654321/123456/11243
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG7Vu8gPIhvfOcdgcWMksaJ9TVQuvkSB9l00HMcnC0Lp9Jv-pGuQ5lDcjAU6f_iwiSaZqb7rUhS4w0l0NUb2tVdpfi0q2Z7HX0EHnSLfUpkmsYD3sJ_LSI2-fO1rmarqYv3WAM3o58Dsadd3MSsadhyKlRvB3Wk2bl9Hu5pWC1Wt4T0UR2LeeTpvSV9w/s1600/imtv%20%281%29.jpg",IMTV (Indonesia)
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",HBO Family (Indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.m3u8
+
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",HBO Hits  (Indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+
+#EXTINF:-1 group-title="SIARAN_MALAYSIA_ZAHIRUDDIN" tvg-logo="",HBO Signature (indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26597.m3u8
+
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",HBO(indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://extraott.com:80/live/6945574629/7169628753/191943.m3u8
+
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="SIARAN_MALAYSIA_ZAHIRUDDIN",HBO(indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================== RADIO_MALAYSIA_ZAHIRUDDIN =================================================================
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/zahiruddin0/M3U8/refs/heads/main/MESEJ/ZAHIRUDDIN.jpg"
+
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
+https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/bestfm.png",Best Fm
+https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Kool101.png",Kool 101
+https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="ERA" tvg-name="Era Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era
+https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Fly FM" tvg-name="Fly Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png",Fly Fm
+https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Hitz FM" tvg-name="Hitz Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",Hitz Fm
+https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Johor FM" tvg-name=" Johor FM " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/JohorFm.png",Johor Fm
+https://mifntechnology.github.io/siaranMy/radio/JohorFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="NASFM" tvg-name="Nasional Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/NasionalFm.png",NasionalFm
+https://mifntechnology.github.io/siaranMy/radio/NasionalFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Klasik FM" tvg-name="Radio Klasik" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RadioKlasik.png",Radio Klasik
+https://mifntechnology.github.io/siaranMy/radio/RadioKlasik/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Sinar FM" tvg-name="Sinar Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
+https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Suria FM" tvg-name="Suria Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
+https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Ria FM" tvg-name="Ria89.7 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/RiaFm.png",Ria897Fm
+https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Asyik FM" tvg-name="Asyik Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/AsyikFm.png",AsyikFm
+https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
+
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-group="radio" tvg-id="Eight FM" tvg-name="8 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm
+https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HITZ" tvg-name="HITZ" ch-number="852" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",HITZ FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MY" tvg-name="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",MY FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+
+#EXTINF:-1 tvg-id="LITE" tvg-name="LITE" ch-number="854" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",LITE FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tZ1I5dpeNKHRe8tujMNiZw", "kid":"6Ks1BJHgUSgjWFnxJyJbEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ERA" tvg-name="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",ERA FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SINAR" tvg-name="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",SINAR FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MELODY" tvg-name="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",MELODY FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bfUsRrGTUi/odCCTjgKXWQ", "kid":"003ElwH5wiufILqrsnrUEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
+
+#EXTINF:-1 tvg-id="RAAGA" tvg-name="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",RAAGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ROCK" tvg-name="ROCK" ch-number="860" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",CLASSIC ROCK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oGTVj6SdZ2FLBSq5qSo3XA", "kid":"dDd/nep1RTmU9/b17bCOEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GOLD" tvg-name="GOLD" ch-number="861" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",GOLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cVyEAdeCnJp8XWZZIsoT9g", "kid":"j5Ls30zRrFW8jHiPoZWGEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
+
+#EXTINF:-1 tvg-id="OPUS" tvg-name="OPUS" ch-number="862" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",OPUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sLl8yh+eMRoJ0zJlyFog6A", "kid":"oU+aFEUKlgMrEG1O6BgTEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GEGAR" tvg-name="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",GEGAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+
+#EXTINF:-1 tvg-id="INDIA" tvg-name="INDIA" ch-number="864" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",INDIA BEAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
+
+#EXTINF:-1 tvg-id="JAZZ" tvg-name="JAZZ" ch-number="865" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",JAZZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"soRWP83esHi1v+DvtoT/oQ", "kid":"G7q2ex+Vrpoy23OojDCBEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+
+#EXTINF:-1 tvg-id="OSAI" tvg-name="OSAI" ch-number="866" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",OSAI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y4svIZDNhLYuaHb8xr8kvw", "kid":"CC5RY5jF6hXWuc2lciR8EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
+
+#EXTINF:-1 tvg-id="BAYU" tvg-name="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",BAYU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
+
+#EXTINF:-1 tvg-id="KENYALANG" tvg-name="KENYALANG" ch-number="868" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",KENYALANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7zs6Ncey+e6wIqUknzzWA", "kid":"/dlpDENjHqxn2/sRptalEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
+
+#EXTINF:-1 tvg-id="NASFM" tvg-name="NASFM" ch-number="869" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/25_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",NAS FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nAgyqNvDbSq1iSYA6mlg/Q", "kid":"rowgBwxwYzOtEyMPBUEcEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
+
+#EXTINF:-1 tvg-id="VFM" tvg-name="VFM" ch-number="870" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",V FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
+
+#EXTINF:-1 tvg-id="WAIFM" tvg-name="WAIFM" ch-number="871" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/145_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",WAI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vJ314WLFaSZpqOxjZsnk2w", "kid":"veR4S8ZOsyYWnRHBCgsVEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TRAXXFM" tvg-name="TRAXXFM" ch-number="872" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",TRAXX FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hlolq6gTQWR5Gyl5PXuX2w", "kid":"dMauIP9+Me4qoYErx5MTEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MINNALFM" tvg-name="MINNALFM" ch-number="873" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",MINNAL FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0gEeMrUkoC5Dl44aBmOUvQ", "kid":"SiQocCxmIgzhBdXLogM0EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AIFM" tvg-name="AIFM" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",AI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L2HWbPzhK8sFZXFRCZnzvw", "kid":"mdAGD00zM76QsMrmrdtDEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
+
+#EXTINF:-1 tvg-id="KENYALANG" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",KENYALANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"U7zs6Ncey+e6wIqUknzzWA", "kid":"/dlpDENjHqxn2/sRptalEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ASYIKFM" tvg-name="ASYIKFM" ch-number="875" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",ASYIK FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jBmOlxGeRtrZpNaT9agq/w", "kid":"ugGy9zx2Qy5kkJJ2fxBwEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ZAYAN" tvg-name="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",ZAYAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"isbT6tRhxcFJerJai9H2GQ", "kid":"+DZv2Gbg71ISaLU0RiA2EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GOXUAN" tvg-name="GOXUAN" ch-number="877" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",GO XUAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7x584+UKeHiM4YMc6o4YfQ", "kid":"7nOKZ3dtFH6V+V3yfmJrEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
+  
+#EXTINF:-1 group-title="RADIO_MALAYSIA_ZAHIRUDDIN" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 tvg-id="MINNALFM" tvg-name="MINNALFM" ch-number="873" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png" group-title="RADIO_MALAYSIA_ZAHIRUDDIN",MINNAL FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0gEeMrUkoC5Dl44aBmOUvQ", "kid":"SiQocCxmIgzhBdXLogM0EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
